@@ -11,7 +11,7 @@ int main()
     printf("enter c:\n");
     scanf("%d", &c);
 
-    if (a<5 && b>10 || c!= 10 ){
+    if (a<5 || b>10 && c!= 10 ){
         printf("statement is true ");
     }
     else {
