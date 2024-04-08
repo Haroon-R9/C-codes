@@ -19,8 +19,23 @@ int main()
     }
 
     return 0;
-     
 
     }
 
+            /* 
+            && (AND logic ) is  when both condition is true
+            1 1 = true
+            1 0 = false
+            0 1 = false
+            0 0 = false
+
+            || (OR) is true when one condition is true at least
+            1 1 = true
+            1 0 = true
+            0 1 = true
+            0 0 = false
+
+            ! (NOT) returns true when statement is false, returns false when statement is true
+            (5==5) false
+             (4==5) true
 
