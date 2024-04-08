@@ -1,4 +1,4 @@
-include<stdio.h>
+#include<stdio.h>
                     // any non zero value is considered to be true
 int main(){
     int a = 11;
